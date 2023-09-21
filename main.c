@@ -16,6 +16,7 @@ int main(void){
   getchar();
   getchar();
   
-  	
+  system("PAUSE");
+  
   return 0;
 }
